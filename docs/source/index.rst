@@ -1,10 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome to FitCheck's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Fitcheck** (/fɪt ʧɛk/) is a an application aimed at users that want a place to improve and share their dress sense
+or for those that just want a palce to plan event outfits in advance.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
