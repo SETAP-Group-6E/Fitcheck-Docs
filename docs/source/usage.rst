@@ -3,32 +3,28 @@ Usage
 
 .. _installation:
 
-Installation
+Installation and set up
 ------------
 
-To use Lumache, first install it using pip:
+To use FitCheck, first clone the repository and navigate to the project directory in your terminal then do flutter pub get to install the dependencies. Then, you can run the main.dart file to see the output.:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+$ git clone
+$ cd fitcheck-frontend
+$ flutter pub get
 
-Creating recipes
+Creating a FitCheck account-------------------------
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+To create a FitCheck account,
+you can run the main.dart file and follow the prompts to enter your username, email, and password. Once you have created an account, you can log in and start using FitCheck. If you don't input a username part of the email will be used as the username.:
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
 
 For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+johnDoe
+johnDoe@gmail.com
+johnDoe123
+
 
