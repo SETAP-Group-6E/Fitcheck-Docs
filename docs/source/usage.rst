@@ -6,7 +6,20 @@ Usage
 Installation and set up
 ------------
 
-To use FitCheck, first clone the repository and navigate to the project directory in your terminal then do flutter pub get to install the dependencies. Then, you can run the main.dart file to see the output.:
+To use FitCheck, first clone the repository and navigate to the project directory in your terminal then do flutter pub get to install the dependencies:
+
+
+- Flutter SDK — https://flutter.dev/docs/get-started/install
+- Dart SDK (bundled with Flutter)
+- A development device:
+  - iOS Simulator (requires Xcode on macOS)
+  - Android Emulator (requires Android Studio)
+  - Physical device (iOS or Android) with USB debugging enabled
+- Code editor: VS Code, Android Studio, or Xcode
+- Git (for cloning the repository)
+
+
+Then, you can run the main.dart file to see the output.:
 
 .. code-block:: console
 
