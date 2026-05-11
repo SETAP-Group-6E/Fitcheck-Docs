@@ -18,4 +18,4 @@ Contents
 
    usage
    api
-   user requirements <user-requirements>
+   User Requirements <user-requirements>
