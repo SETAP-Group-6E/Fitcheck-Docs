@@ -1,2 +1,0 @@
-Registering for an account
-==========================
