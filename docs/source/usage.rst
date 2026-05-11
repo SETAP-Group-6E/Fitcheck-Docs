@@ -6,9 +6,9 @@ Usage
 Installation and set up
 ------------
 
-To use FitCheck, first clone the repository and navigate to the project directory in your terminal then do flutter pub get to install the dependencies:
+To use FitCheck, first clone the repository and navigate to the project directory in your terminal then do flutter pub get to install the dependencies.
 
-
+Prerequisites:
 - Flutter SDK — https://flutter.dev/docs/get-started/install
 - Dart SDK (bundled with Flutter)
 - A development device:
@@ -26,6 +26,15 @@ Then, you can run the main.dart file to see the output.:
 $ git clone
 $ cd fitcheck-frontend
 $ flutter pub get
+
+Tech Stack:
+- Flutter (UI framework)
+- Dart (programming language)
+- Riverpod (state management and dependency injection)
+- Supabase (backend, authentication, database, storage)
+- Google Fonts 
+- Google Sign-In
+
 
 Creating a FitCheck account-------------------------
 ----------------
