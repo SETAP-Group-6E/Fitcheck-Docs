@@ -20,7 +20,7 @@ Contents
    usage
    api
    user-requirements
-   home page
+   homepage
    wardrobe
    settings
    
