@@ -19,9 +19,9 @@ Contents
 
    usage
    api
+   versioncontrol
    user-requirements
    homepage
-   registration
    wardrobe
-   settings
-   
+   registration
+   login
