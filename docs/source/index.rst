@@ -15,7 +15,9 @@ Contents
 --------
 
 .. toctree::
+   :caption: User Documentation
 
    usage
    api
-   User Requirements <user-requirements>
+   User Requirements
+      
