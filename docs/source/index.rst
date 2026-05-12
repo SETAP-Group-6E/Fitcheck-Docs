@@ -15,7 +15,13 @@ Contents
 --------
 
 .. toctree::
+   :caption: User Documentation
 
    usage
    api
-   User Requirements <user-requirements>
+   versioncontrol
+   user-requirements
+   homepage
+   wardrobe
+   registration
+   login
