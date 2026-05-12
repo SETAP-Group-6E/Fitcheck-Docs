@@ -21,6 +21,7 @@ Contents
    api
    user-requirements
    homepage
+   registration
    wardrobe
    settings
    
